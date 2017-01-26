@@ -1,4 +1,4 @@
-# A Blank PhoneGap App
+# A Simple Calculator
 
 ## Usage
 
